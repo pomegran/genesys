@@ -111,4 +111,4 @@ Enter the following information:
 - Handover Skill - enter the "Queue Name" from Genesys Setup Step 5
 - Handover Error - text to send back to EBM to trigger an appropriate error handling intent
 
-EBM conversational flows and an appropriate points be handed over to a Genesys Queue using the Intent "Human Handover" capabilities.
+EBM conversational flows and an appropriate points need to be handed over to a Genesys Queue using the Intent "Human Handover" capabilities.
